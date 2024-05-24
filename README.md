@@ -1,6 +1,11 @@
 # local-llama3-sentiment-analysis
 
-Download ollama
+Download ollama 
+
+download llama3 model by 
+
+`ollama pull llama3`
+
 
 Set up the local ollama server first with 
 
