@@ -64,9 +64,6 @@ python3 main.py
 
 This will analyze the comments from the CSV file, print the comments with their detected sentiments, display a bar chart of the sentiment distribution, and print the CPU usage.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contributing
 
